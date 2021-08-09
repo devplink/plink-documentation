@@ -25,12 +25,12 @@ Integration:
    * Select desired order status for waiting payments, from **Payment Status - Waiting** list **(This is optional)**
    * Select desired order status for rejected payments, from **Payment Status - Rejected** list **(This is optional)**
 
-![](/assets/20210809_120543_Peek_2021-08-09_11-54.gif)
+![](/20210809_120543_Peek_2021-08-09_11-54.gif)
 
 7. To complete module integration you need to register your **backend callback flag url**  and **frontend callback flag url**. So the generated backend and frontend callback url on your administrator will be registered to plink.
 
-   ![](/assets/20210809_120606_Screenshot_from_2021-08-09_11-56-16.png)
+   ![](/20210809_120606_Screenshot_from_2021-08-09_11-56-16.png)
 
 **Payment flow**
 
-![](/assets/20210809_120651_Peek_2021-08-09_12-00.gif)
+![](/20210809_120651_Peek_2021-08-09_12-00.gif)
